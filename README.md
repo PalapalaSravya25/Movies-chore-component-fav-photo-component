@@ -1,1 +1,1 @@
-# Movies-chore-component-fav-photo-component
+# Movies-chores-list-fav-photo-component
